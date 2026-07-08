@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Then open `http://127.0.0.1:5000` in your browser.
+Then open `https://readme-generator-t0nc.onrender.com` in your browser.
 
 ## Deployment (Render)
 1. Push this project to a GitHub repo.
