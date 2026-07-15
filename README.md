@@ -30,6 +30,9 @@ python app.py
 ```
 Then open `https://readme-generator-t0nc.onrender.com` in your browser.
 
+##demo
+![docket.demo](demo.png)
+
 ## Deployment (Render)
 1. Push this project to a GitHub repo.
 2. On Render: New → Web Service → connect the repo.
